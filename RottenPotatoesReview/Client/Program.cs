@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
 namespace RottenPotatoesReview.Client
+	nawjnsackcjaskjca
 {
 	public class Program
 	{
